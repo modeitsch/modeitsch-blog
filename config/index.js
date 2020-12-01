@@ -17,7 +17,7 @@ const site = {
 
 const supportedLanguages = {
   en: 'English',
-  'zh-hans': 'עברית',
+  'he': 'עברית',
 };
 
 module.exports = {
