@@ -1,8 +1,8 @@
 const site = {
   pathPrefix: '/gatsby-simple-blog',
-  title: 'Gatsby Starter Blog',
-  author: 'Kyle Mathews',
-  description: 'A starter blog demonstrating what Gatsby can do.',
+  title: 'Modeitsch Blog',
+  author: 'Moshe Deitsch',
+  description: 'We Are Not a Gadget.',
   siteUrl: 'https://gatsby-simple-blog.thundermiracle.com/',
   twitter: 'kylemathews',
   github: 'thundermiracle',
@@ -17,7 +17,7 @@ const site = {
 
 const supportedLanguages = {
   en: 'English',
-  'zh-hans': '简体中文',
+  'zh-hans': 'עברית',
 };
 
 module.exports = {
